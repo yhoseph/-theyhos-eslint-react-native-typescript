@@ -35,7 +35,7 @@ module.exports = [
       'indent': ['error', 2],
       '@typescript-eslint/no-explicit-any': 'off',
       'function-paren-newline': ['error', {
-        'minItems': 1
+        'minItems': 2
       }],
       'object-curly-newline': [
         'error',
