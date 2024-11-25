@@ -9,7 +9,7 @@ Create file or edit
 
 add the next code
 ```js
-import theyhos from 'the-yhos-eslint-react-native-typescript';
+import theyhos from 'theyhos-eslint-react-native-typescript';
 
 export default [
   ...theyhos,
@@ -22,7 +22,7 @@ _____
 Edit file `eslint.config.mjs`
 
 ```js
-import theyhos from 'the-yhos-eslint-react-native-typescript';
+import theyhos from 'theyhos-eslint-react-native-typescript';
 
 export default [
   ...theyhos,
