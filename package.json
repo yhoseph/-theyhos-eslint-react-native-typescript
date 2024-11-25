@@ -1,10 +1,14 @@
 {
   "name": "theyhos-eslint-react-native-typescript",
-  "version": "1.0.0-alpha",
+  "version": "1.0.1-alpha",
   "main": "index.js",
   "keywords": [],
   "author": "Yhoseph Beltran",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhoseph/theyhos-eslint-react-native-typescript.git"
+  },
   "description": "theyhos's ESLint configuration for React Native projects",
   "devDependencies": {
     "@eslint/js": "^9.15.0",
