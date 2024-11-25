@@ -1,0 +1,21 @@
+{
+  "name": "theyhos-eslint-react-native-typescript",
+  "version": "1.0.0-alpha",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Yhoseph Beltran",
+  "license": "MIT",
+  "description": "theyhos's ESLint configuration for React Native projects",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@react-native/eslint-config": "0.76.3",
+    "@react-native/typescript-config": "0.76.3",
+    "@typescript-eslint/eslint-plugin": "^8.15.0",
+    "@typescript-eslint/parser": "^8.15.0",
+    "eslint": "^9.15.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.12.0",
+    "prettier": "2.8.8",
+    "typescript-eslint": "^8.15.0"
+  }
+}
